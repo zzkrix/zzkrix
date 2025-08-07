@@ -1,3 +1,6 @@
+👋 Hi~
+
+<!---
 - 👋 Hi, I’m @zzkrix
 - 👀 I’m interested in Go \ Rust \ Python \ lua \ Vue \ C \ AI ...
 - 🌱 I’m currently learning (js, ts, vue, Rust)
@@ -5,6 +8,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--->
 
 <!---
 zzkrix/zzkrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
